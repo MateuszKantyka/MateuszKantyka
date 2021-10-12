@@ -1,1 +1,1 @@
-[![Mateusz, Back-End Developer](https://assets.selleo.com/banners/ajanik.svg)](https://selleo.com/)
+[![Mateusz, Back-End Developer](https://assets.selleo.com/banners/mkantyka.svg)](https://selleo.com/)
